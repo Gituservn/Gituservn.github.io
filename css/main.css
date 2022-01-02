@@ -126,7 +126,7 @@ nav {
   padding: 150px 0 135px 0;
   text-align: center;
   min-height: 800px;
-  background: url(/img/uber_bg.jpg) center center/cover no-repeat;
+  background: url(img/uber_bg.jpg) center center/cover no-repeat;
 }
 .promo_header {
   color: #ffffff;
@@ -254,7 +254,7 @@ nav {
 .mobile {
   min-height: 865px;
   padding: 50px 0 80px 0;
-  background: url(/img/mobile_bg.jpg) center center/cover no-repeat;
+  background: url(img/mobile_bg.jpg) center center/cover no-repeat;
 }
 .mobile_item {
   position: relative;
@@ -264,22 +264,22 @@ nav {
   margin-bottom: 20px;
 }
 .mobile_item_1 {
-  background: url(/img/card1.png) center center/cover no-repeat;
+  background: url(img/card1.png) center center/cover no-repeat;
 }
 .mobile_item_2 {
-  background: url(/img/card2.png) center center/cover no-repeat;
+  background: url(img/card2.png) center center/cover no-repeat;
 }
 .mobile_item_3 {
-  background: url(/img/card3.png) center center/cover no-repeat;
+  background: url(img/card3.png) center center/cover no-repeat;
 }
 .mobile_item_4 {
-  background: url(/img/card4.png) center center/cover no-repeat;
+  background: url(img/card4.png) center center/cover no-repeat;
 }
 .mobile_item_5 {
-  background: url(/img/card5.png) center center/cover no-repeat;
+  background: url(img/card5.png) center center/cover no-repeat;
 }
 .mobile_item_6 {
-  background: url(/img/card6.png) center center/cover no-repeat;
+  background: url(img/card6.png) center center/cover no-repeat;
 }
 .mobile .row {
   margin-top: 30px;
@@ -389,7 +389,7 @@ nav {
   position: relative;
   min-height: 895px;
   padding: 57px 0 138px 0;
-  background: url("/img/mobile_bg.jpg") center center/cover no-repeat;
+  background: url("img/mobile_bg.jpg") center center/cover no-repeat;
 }
 .choice_text {
   position: relative;
@@ -462,7 +462,7 @@ nav {
   top: 3px;
   width: 21px;
   height: 20px;
-  background: url("../img/check_blue.png") center center/cover no-repeat;
+  background: url("..img/check_blue.png") center center/cover no-repeat;
 }
 .require_descr {
   font-weight: 300;
